@@ -1,6 +1,6 @@
 <?php
 
-$apiKey = "YOUR_API_KEY"; // replace with your OpenWeatherMap API key
+$apiKey = "YOUR_API_KEY"; // replace with your OpenWeatherMap API 
 $city = "Berlin";
 $url = "https://api.openweathermap.org/data/2.5/weather?q={$city}&units=metric&appid={$apiKey}";
 
